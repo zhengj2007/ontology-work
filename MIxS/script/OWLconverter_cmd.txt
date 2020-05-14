@@ -1,0 +1,13 @@
+OWLconverter.jar
+-----------------------------------------
+Convert tab delimited or csv file to OWL format file
+
+
+-----------------------------------------
+Run OWLconverter.jar
+-----------------------------------------
+Requirement:
+Java 1.7 and up
+
+Command:
+java -jar OWLconverter.jar -settingFilename ../MIxS_standard/setting.txt

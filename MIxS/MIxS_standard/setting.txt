@@ -1,0 +1,21 @@
+path	../MIxS_standard/
+	
+input file	MIxS_microbiome.txt
+output file	microbiome.owl
+ontology IRI	http://purl.obolibrary.org/obo/microbiome.owl
+IRI base	http://purl.obolibrary.org/obo/microbiome.owl
+prefix	MICRO
+start ID	500
+external ontology file	
+	
+term position	1
+term IRI position	2
+term parent position	3
+term parent IRI position	4
+annotation property	micro_ID
+annotation property	common_name
+annotation property	definition
+annotation property	synonym
+annotation property	MIxS_package
+annotation property	Env_package
+annotation property	term_type
